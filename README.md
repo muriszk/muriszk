@@ -34,8 +34,7 @@ Este perfil contém:
 - Amo música e tocar baixo elétrico
 
 ## 📫 Contato
-- GitHub: https://github.com/seu-usuario
-- LinkedIn: seu-link
+- GitHub:github.com/muriszk/muriszk/
 
 ---
 ## ⭐ Fique à vontade para explorar os repositórios.
