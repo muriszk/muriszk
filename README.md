@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, bem-vindo ao meu GitHub
 
-<!--
-**muriszk/muriszk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui você encontrará projetos focados em aprendizado, prática e desenvolvimento de soluções de software.
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
+Sou um desenvolvedor em constante aprendizado, interessado em criar aplicações limpas, funcionais e bem estruturadas.  
+Gosto de transformar ideias em soluções práticas por meio do código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Linguagens de programação
+- Frameworks e bibliotecas
+- Tecnologias web e/ou back-end
+- Controle de versão e ferramentas
+
+## 📚 Atualmente aprendendo
+- Novas tecnologias e frameworks
+- Boas práticas em desenvolvimento de software
+- Organização de código e arquitetura
+
+## 🚀 Projetos
+Este perfil contém:
+- Projetos de estudo
+- Experimentos pessoais
+- Aplicações práticas
+- Trabalhos acadêmicos e profissionais
+
+## 🎯 Objetivos
+- Evoluir tecnicamente
+- Criar projetos consistentes e reutilizáveis
+- Crescer como desenvolvedor de software
+
+## 😁 Fun Facts
+- Sou dono de 3 gatos
+- Amo música e tocar baixo elétrico
+
+## 📫 Contato
+- GitHub: https://github.com/seu-usuario
+- LinkedIn: seu-link
+
+---
+## ⭐ Fique à vontade para explorar os repositórios.
