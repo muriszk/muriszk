@@ -1,40 +1,17 @@
-# 👋 Olá, bem-vindo ao meu GitHub
-
-Aqui você encontrará projetos focados em aprendizado, prática e desenvolvimento de soluções de software.
-
-## 💻 Sobre mim
-Sou um desenvolvedor em constante aprendizado, interessado em criar aplicações limpas, funcionais e bem estruturadas.  
-Gosto de transformar ideias em soluções práticas por meio do código.
+## 👋 Sobre
+Desenvolvedor de software em constante evolução, focado na criação de aplicações limpas, funcionais e bem estruturadas, transformando ideias em soluções práticas por meio do código.
 
 ## 🛠️ Tecnologias
-- Linguagens de programação
-- Frameworks e bibliotecas
-- Tecnologias web e/ou back-end
-- Controle de versão e ferramentas
+Linguagens de programação, frameworks, tecnologias web/back-end e controle de versão.
 
-## 📚 Atualmente aprendendo
-- Novas tecnologias e frameworks
-- Boas práticas em desenvolvimento de software
-- Organização de código e arquitetura
+## 📚 Aprendizado contínuo
+Boas práticas de desenvolvimento, novas tecnologias, organização de código e arquitetura de software.
 
 ## 🚀 Projetos
-Este perfil contém:
-- Projetos de estudo
-- Experimentos pessoais
-- Aplicações práticas
-- Trabalhos acadêmicos e profissionais
+Projetos de estudo, aplicações práticas, experimentos pessoais e trabalhos acadêmicos/profissionais.
 
-## 🎯 Objetivos
-- Evoluir tecnicamente
-- Criar projetos consistentes e reutilizáveis
-- Crescer como desenvolvedor de software
-
-## 😁 Fun Facts
-- Sou dono de 3 gatos
-- Amo música e tocar baixo elétrico
+## 🎯 Objetivo
+Evoluir tecnicamente e desenvolver soluções consistentes e reutilizáveis.
 
 ## 📫 Contato
-- GitHub:github.com/muriszk/muriszk/
-
----
-## ⭐ Fique à vontade para explorar os repositórios.
+GitHub: https://github.com/muriszk
